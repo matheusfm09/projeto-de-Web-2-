@@ -1,0 +1,15 @@
+br\ueg\trindade\Matheus_projeto_fullstack\UsuarioController.class
+br\ueg\trindade\Matheus_projeto_fullstack\UsuarioRepository.class
+br\ueg\trindade\Matheus_projeto_fullstack\Controller\PermissaoController.class
+br\ueg\trindade\Matheus_projeto_fullstack\PermissaoController.class
+br\ueg\trindade\Matheus_projeto_fullstack\Permissao.class
+br\ueg\trindade\Matheus_projeto_fullstack\Vendas.class
+br\ueg\trindade\Matheus_projeto_fullstack\MatheusProjetoFullstackApplication.class
+br\ueg\trindade\Matheus_projeto_fullstack\Controller\UsuarioController.class
+br\ueg\trindade\Matheus_projeto_fullstack\Controller\VendasController.class
+br\ueg\trindade\Matheus_projeto_fullstack\Controller\PermissaoService.class
+br\ueg\trindade\Matheus_projeto_fullstack\PermissaoRepository.class
+br\ueg\trindade\Matheus_projeto_fullstack\Service\VendasService.class
+br\ueg\trindade\Matheus_projeto_fullstack\Service\UsuarioService.class
+br\ueg\trindade\Matheus_projeto_fullstack\Vendasrepository.class
+br\ueg\trindade\Matheus_projeto_fullstack\Usuario.class
